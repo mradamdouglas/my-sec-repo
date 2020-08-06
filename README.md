@@ -1,30 +1,25 @@
-# This is a large heading
+# Adam X Douglas
 
-## This is a smaller heading 
+### Geography 
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
+I live somewhere on Earth, in a place where I can see many natural rock formations.... Mind your
+business about exactly where. 
 
-- This is 
-- an unordered 
-- list
+### Reading
 
-1. This is 
-2. an ordered
-3. list
+Three of my favorite books are: 
+- *Between the World and Me* by Ta-Nehisi Coates
+- *Illusions: The Adventures of a Reluctant Messiah* by Richard Bach
+- *Survival Math* by Mitchell S Jackson
 
-Here is 'some code' in the middle of a sentence
+### Coding
 
-'''
-This is a block 
-of code
-'''
+My favorite languages are 
+1. COBOL
+2. JCL
+3. C#
+4. Java
 
-Here is how you make [a link](https://www.wikipedia.org/).
+You can get the GnuCOBOL compiler at [Sourceforge](https://sourceforge.net/projects/gnucobol).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
 
