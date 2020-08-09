@@ -14,11 +14,12 @@ Three of my favorite books are:
 
 ### Coding
 
-My favorite languages are 
+#### My favorite languages are 
 1. COBOL
 2. JCL
 3. C#
 4. Java
+5. Python
 
 You can get the GnuCOBOL compiler at [Sourceforge](https://sourceforge.net/projects/gnucobol).
 
